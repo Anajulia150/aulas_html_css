@@ -1,7 +1,17 @@
 .caixa_width{
-    border-width: 2px;
-    border-style: solid;
-    border-color: lightpink;
-    
-    border: 2px solid lightskyblue;
+    /* border-width: 2px; */
+    /* border-style: solid; */
+    /* border-color: lightpink; */
+
+    border: 2px solid rgb(238, 238, 144);
+    width: 100px;
+}
+
+.imagem_width {
+    width: 300px;
+}
+
+.caixa_height {
+    border: 1px dashed darkgoldenrod;
+    height: 100px;
 }
