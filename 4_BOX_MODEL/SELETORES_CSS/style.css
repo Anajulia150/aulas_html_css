@@ -1,0 +1,41 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: lightblue;
+}
+
+main{
+    margin-top: 1rem;
+}
+
+.paragrafo{
+    border: 1px solid #0ff;
+    color: aquamarine;
+    margin-top: 1rem;
+}
+
+#titulo {
+    color: lightgreen;
+    margin-bottom: 1rem;
+}
+
+input[type="password"]{
+    font-size: 3rem;
+}
+
+
+.login_form input{
+        font-size: 2rem;
+        color: lightcoral;
+}
+
+.login_form >input{
+    color: azure;
+    width:10rem
+}
+
+.cadrastro-form input:nth-of-type(){
+
+}
